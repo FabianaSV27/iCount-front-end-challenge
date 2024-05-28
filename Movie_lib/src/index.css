@@ -1,0 +1,20 @@
+
+* {
+  font-family: 'Comic Sans MS', sans-serif;
+}
+
+body {
+  background-color: #021024; /* Cor inicial */
+  background-image: linear-gradient(to right, #052659, #021024); /* Degradê */
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: #ffff;
+  transition: 0.5s;
+}
+
+a:hover {
+  color: #929292;
+}
